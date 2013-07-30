@@ -2,3 +2,7 @@
 	path = tools
 	url = git@github.com:EmbeddedAtUM/panappticon-tools.git
 	branch = master
+[submodule "platform-libcore"]
+	path = platform-libcore
+	url = git@github.com:EmbeddedAtUM/panappticon-platform-libcore.git
+	branch = panappticon-4.1.1_r6
