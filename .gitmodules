@@ -6,3 +6,7 @@
 	path = platform-libcore
 	url = git@github.com:EmbeddedAtUM/panappticon-platform-libcore.git
 	branch = panappticon-4.1.1_r6
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:EmbeddedAtUM/panappticon-kernel.git
+	branch = panappticon-tuna-4.1.1_r6
