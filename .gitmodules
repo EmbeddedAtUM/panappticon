@@ -10,3 +10,7 @@
 	path = kernel
 	url = git@github.com:EmbeddedAtUM/panappticon-kernel.git
 	branch = panappticon-tuna-4.1.2_r1
+[submodule "platform-framework-base"]
+	path = platform-framework-base
+	url = git@github.com:EmbeddedAtUM/panappticon-platform-framework-base.git
+	branch = panappticon-4.1.2_r1
